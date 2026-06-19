@@ -1,0 +1,31 @@
+## Requirements
+
+Before launching the scanner, make sure your environment is ready:
+
+✅ Python 3.8 or later
+
+✅ Network connectivity to the target host
+
+✅ Basic understanding of networking concepts (IP addresses, ports, services)
+
+✅ Authorization to scan the target system
+
+### Built With
+
+This project is intentionally lightweight and relies only on Python's standard library:
+
+* `socket` — Establishes network connections and performs port scanning
+* `datetime` — Measures and reports scan duration
+
+No external packages, frameworks, or installations are required.
+
+### Why No Dependencies?
+
+The goal of this project is to demonstrate how powerful Python's built-in networking capabilities can be. By avoiding third-party libraries, the scanner remains:
+
+* Lightweight
+* Easy to deploy
+* Beginner-friendly
+* Cross-platform compatible
+
+Just install Python and start scanning.

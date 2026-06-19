@@ -94,4 +94,4 @@ This tool is intended for educational purposes and authorized security testing o
 
 B.E. Computer Science and Engineering (Cyber Security)
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/thirumurugan006

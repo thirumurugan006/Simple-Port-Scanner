@@ -90,8 +90,8 @@ This tool is intended for educational purposes and authorized security testing o
 
 ## Author
 
-**Thirumurugan**
+**Thirumurugan P**
 
-B.E. Computer Science and Engineering (Cyber Security)
+B.E\Computer Science and Engineering (Cyber Security)
 
 GitHub: https://github.com/thirumurugan006
